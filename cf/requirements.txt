@@ -2,4 +2,6 @@ flask==1.1.2
 google-api-python-client==1.12.8
 google-cloud-error-reporting==1.1.0
 google-cloud-texttospeech==2.2.0
+arrow==0.17.0
+humanize==3.2.0
 
